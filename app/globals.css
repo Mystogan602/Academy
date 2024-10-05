@@ -80,3 +80,12 @@ html, body, :root{
     @apply bg-background text-foreground;
   }
 }
+
+.cl-formButtonPrimary{
+  color: black;
+  background-color: #fdab04;
+}
+
+.cl-formButtonPrimary:hover{
+  background-color: rgb(253, 171, 4, 0.8);
+}
